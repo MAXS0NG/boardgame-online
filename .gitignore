@@ -1,0 +1,22 @@
+# node at any depth
+**/node_modules/
+npm-debug.log*
+
+# build outputs
+**/dist/
+**/build/
+
+# editor/OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# env
+.env
+.env.*
+!.env.example
+
+# vite caches
+.vite/
+frontend/.vite/
